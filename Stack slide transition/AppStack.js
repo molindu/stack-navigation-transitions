@@ -1,4 +1,4 @@
-// AppStack.js
+// AppStack.js not need this ##########################################################
 import { createStackNavigator, TransitionPresets } from 'react-navigation-stack';
 import { createAppContainer } from 'react-navigation';
 import ScreenA from './ScreenA';
